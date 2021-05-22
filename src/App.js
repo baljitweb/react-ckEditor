@@ -1,10 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-// import CKEditor from "react-ckeditor-component";
+
 import {CKEditor} from '@ckeditor/ckeditor5-react';
-// import Editor from '@ckeditor/ckeditor5-editor-inline';
-// import Editor from 'ckeditor5-custom-inline-build';
-// import Editor from './lib/ckeditor';
+
 import Editor from 'ckeditor5-custom-build';
 
 
